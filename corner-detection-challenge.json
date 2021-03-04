@@ -1,0 +1,1054 @@
+{
+  "api_credentials": {
+    "endpoint": "https://api.signality.com",
+    "username": "interview",
+    "password": "fdf>+~By8h8D)5)"
+  },
+  "game_id": {
+    "f8f55f30-aa4f-11ea-9fe0-2dc5f8123d83": {
+      "1": [
+        {
+          "team": "away_team",
+          "utc_time": "2020-06-17 17:02:20.182332+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-17 17:09:25.859831+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-17 17:16:23.259922+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-06-17 17:27:43.320319+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-17 17:37:48.812671+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-17 17:38:24.915794+00:00",
+          "event_name": "corner"
+        }
+      ],
+      "2": [
+        {
+          "team": "away_team",
+          "utc_time": "2020-06-17 18:13:54.877721+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-06-17 18:15:39.804381+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-17 18:32:04.664331+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-17 18:46:12.712656+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-17 18:47:27.503248+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-06-17 18:51:43.307176+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-06-17 18:55:24.927476+00:00",
+          "event_name": "corner"
+        }
+      ]
+    },
+    "125953c0-bb60-11ea-9fe0-2dc5f8123d83": {
+      "1": [
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-01 17:23:03.214597+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-01 17:25:11.803109+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-01 17:27:21.535587+00:00",
+          "event_name": "corner"
+        }
+      ],
+      "2": [
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-01 18:15:59.172475+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-01 18:20:23.495351+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-01 18:34:04.647096+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-01 18:40:42.412023+00:00",
+          "event_name": "corner"
+        }
+      ]
+    },
+    "dfa7abe0-c17a-11ea-9fe0-2dc5f8123d83": {
+      "1": [
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-15 17:12:18.055832+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-15 17:29:50.665258+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-15 17:30:51.335471+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-15 17:43:38.034736+00:00",
+          "event_name": "corner"
+        }
+      ],
+      "2": [
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-15 18:08:02.218203+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-15 18:10:15.328247+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-15 18:13:08.144579+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-15 18:17:24.523248+00:00",
+          "event_name": "corner"
+        }
+      ]
+    },
+    "7a3eaef0-aa52-11ea-9fe0-2dc5f8123d83": {
+      "1": [
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-18 17:16:35.290258+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-06-18 17:48:41.885310+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-06-18 17:49:07.245955999+00:00",
+          "event_name": "corner"
+        }
+      ],
+      "2": [
+        {
+          "team": "away_team",
+          "utc_time": "2020-06-18 18:11:30.856323+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-18 18:14:49.281794+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-18 18:25:03.714626+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-18 18:52:40.446991+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-18 18:53:17.040703+00:00",
+          "event_name": "corner"
+        }
+      ]
+    },
+    "91da6570-c02a-11ea-9fe0-2dc5f8123d83": {
+      "1": [
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-11 13:11:21.116635+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-11 13:36:46.180127+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-11 13:45:58.460544+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-11 13:47:01.079548+00:00",
+          "event_name": "corner"
+        }
+      ],
+      "2": [
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-11 14:10:08.274231+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-11 14:14:09.525788+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-11 14:18:07.634308+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-11 14:23:22.263255+00:00",
+          "event_name": "corner"
+        }
+      ]
+    },
+    "9a1fe650-c02b-11ea-9fe0-2dc5f8123d83": {
+      "1": [
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-13 17:06:25.330570+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-13 17:13:51.468277+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-13 17:41:39.154430+00:00",
+          "event_name": "corner"
+        }
+      ],
+      "2": [
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-13 18:19:39.205458+00:00",
+          "event_name": "corner"
+        }
+      ]
+    },
+    "82ec2540-b51b-11ea-9fe0-2dc5f8123d83": {
+      "1": [
+        {
+          "team": "away_team",
+          "utc_time": "2020-06-28 15:33:15.829335+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-28 15:48:09.553010+00:00",
+          "event_name": "corner"
+        }
+      ],
+      "2": [
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-28 16:37:57.259679+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-06-28 16:40:30.255693+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-06-28 16:50:44.806117+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-28 17:00:14.152686+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-28 17:14:54.971688+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-06-28 17:19:09.152654+00:00",
+          "event_name": "corner"
+        }
+      ]
+    },
+    "de0b08f0-cae8-11ea-9fe0-2dc5f8123d83": {
+      "1": [
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-27 17:10:58.214330+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-27 17:11:16.427385+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-27 17:21:42.415428+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-27 17:27:58.227187+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-27 17:45:05.231655+00:00",
+          "event_name": "corner"
+        }
+      ],
+      "2": [
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-27 18:08:54.142207+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-27 18:09:26.707084+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-27 18:13:36.813566+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-27 18:45:55.964034+00:00",
+          "event_name": "corner"
+        }
+      ]
+    },
+    "28db16a0-b51c-11ea-9fe0-2dc5f8123d83": {
+      "1": [
+        {
+          "team": "away_team",
+          "utc_time": "2020-06-29 17:39:27.644598+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-29 17:46:00.393288+00:00",
+          "event_name": "corner"
+        }
+      ],
+      "2": [
+        {
+          "team": "away_team",
+          "utc_time": "2020-06-29 18:06:02.609337+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-29 18:26:48.090295+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-29 18:47:28.928265+00:00",
+          "event_name": "corner"
+        }
+      ]
+    },
+    "46667e60-bb63-11ea-9fe0-2dc5f8123d83": {
+      "1": [
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-02 17:05:57.406282+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-02 17:23:05.436523+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-02 17:35:22.077400+00:00",
+          "event_name": "corner"
+        }
+      ],
+      "2": [
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-02 18:03:07.160207+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-02 18:17:45.167588+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-02 18:19:39.162704+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-02 18:24:09.715876+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-02 18:26:23.785502+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-02 18:42:51.474010+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-02 18:45:19.637108+00:00",
+          "event_name": "corner"
+        }
+      ]
+    },
+    "25653970-bd22-11ea-9fe0-2dc5f8123d83": {
+      "1": [
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-06 17:11:11.442774+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-06 17:19:51.981221+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-06 17:38:33.200608+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-06 17:40:30.778774+00:00",
+          "event_name": "corner"
+        }
+      ],
+      "2": [
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-06 18:04:13.670599+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-06 18:05:45.735252+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-06 18:08:47.862082+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-06 18:21:29.037358+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-06 18:37:48.356529+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-06 18:38:24.198662+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-06 18:42:53.665371+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-06 18:44:57.925263+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-06 18:47:45.250354+00:00",
+          "event_name": "corner"
+        }
+      ]
+    },
+    "e00ef930-c17a-11ea-9fe0-2dc5f8123d83": {
+      "1": [
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-15 17:01:33.627037+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-15 17:28:46.586747+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-15 17:43:46.891278+00:00",
+          "event_name": "corner"
+        }
+      ],
+      "2": [
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-15 18:03:26.352047+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-15 18:04:21.791737+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-15 18:06:17.392209+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-15 18:06:53.293274+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-15 18:29:21.458524+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-15 18:31:35.669848+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-15 18:32:10.416764+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-15 18:36:42.549751+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-15 18:41:50.669323+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-15 18:50:44.633815+00:00",
+          "event_name": "corner"
+        }
+      ]
+    },
+    "8abeb6a0-c49f-11ea-9fe0-2dc5f8123d83": {
+      "1": [
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-19 15:50:55.524976+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-19 16:06:56.277437+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-19 16:14:07.274238+00:00",
+          "event_name": "corner"
+        }
+      ],
+      "2": [
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-19 16:35:20.551014+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-19 16:37:33.371902+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-19 17:16:03.422542+00:00",
+          "event_name": "corner"
+        }
+      ]
+    },
+    "7c2e7100-aa52-11ea-9fe0-2dc5f8123d83": {
+      "1": [
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-18 17:19:33.909288+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-18 17:34:33.507896+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-18 17:36:41.624073+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-18 17:44:23.854611+00:00",
+          "event_name": "corner"
+        }
+      ],
+      "2": [
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-18 18:02:04.577000+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-18 18:05:06.303551+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-06-18 18:12:28.164368+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-06-18 18:15:52.527138+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-18 18:20:48.584401+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-06-18 18:23:02.066121+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-06-18 18:25:39.937468+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-06-18 18:33:16.609631+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-18 18:38:12.343688+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-18 18:38:36.337107+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-18 18:41:13.842950+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-18 18:43:42.969650+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-18 18:47:11.408665+00:00",
+          "event_name": "corner"
+        }
+      ]
+    },
+    "9f72aeb0-aa20-11ea-9fe0-2dc5f8123d83": {
+      "1": [
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-15 17:23:38.888193+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-15 17:26:09.467402+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-06-15 17:32:13.740346+00:00",
+          "event_name": "corner"
+        }
+      ],
+      "2": [
+        {
+          "team": "away_team",
+          "utc_time": "2020-06-15 18:03:45.140380+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-06-15 18:08:37.736592+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-06-15 18:11:32.505385+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-06-15 18:19:50.528006+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-06-15 18:29:54.392844+00:00",
+          "event_name": "corner"
+        }
+      ]
+    },
+    "33fe1b30-c7c4-11ea-9fe0-2dc5f8123d83": {
+      "1": [
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-23 17:06:16.911683+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-23 17:24:24.242355+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-23 17:24:58.859378+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-23 17:26:10.246202+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-23 17:30:13.652883+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-23 17:40:17.850113+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-23 17:41:35.090661+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-23 17:44:16.115884+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-23 17:45:22.284929+00:00",
+          "event_name": "corner"
+        }
+      ],
+      "2": [
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-23 18:03:27.392457+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-23 18:12:51.993026+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-23 18:13:30.457170+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-23 18:21:23.218249+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-23 18:23:12.400104+00:00",
+          "event_name": "corner"
+        }
+      ]
+    },
+    "89913320-c49f-11ea-9fe0-2dc5f8123d83": {
+      "1": [
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-19 12:53:12.171374+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-19 13:12:21.342640+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-19 13:14:47.978186+00:00",
+          "event_name": "corner"
+        }
+      ],
+      "2": [
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-19 13:35:44.447776+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-19 13:37:51.122752+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-19 13:48:56.918038+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-19 14:06:07.261527+00:00",
+          "event_name": "corner"
+        }
+      ]
+    },
+    "444a7c30-bb63-11ea-9fe0-2dc5f8123d83": {
+      "1": [
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-02 17:07:50.708838+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-02 17:24:36.604960+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-02 17:37:42.857706+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-02 17:38:36.642792+00:00",
+          "event_name": "corner"
+        }
+      ],
+      "2": [
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-02 18:31:27.799926+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-02 18:40:02.187706+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-02 18:48:11.493058999+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-02 18:50:08.149217+00:00",
+          "event_name": "corner"
+        }
+      ]
+    },
+    "339bafe0-c7c4-11ea-9fe0-2dc5f8123d83": {
+      "1": [
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-23 17:25:58.885763+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-23 17:44:52.641450+00:00",
+          "event_name": "corner"
+        }
+      ],
+      "2": [
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-23 18:11:41.021265+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-23 18:16:10.045093+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-23 18:16:50.735383+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-23 18:17:53.935946+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-23 18:29:53.842020+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-23 18:37:54.090836+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-23 18:50:10.996709+00:00",
+          "event_name": "corner"
+        }
+      ]
+    },
+    "b3a085a0-ca1f-11ea-9fe0-2dc5f8123d83": {
+      "1": [
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-26 15:33:35.608767+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-26 15:43:00.128551+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-26 15:50:39.541335+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-26 15:50:57.554513+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-26 15:52:34.582585+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-26 16:07:11.794828+00:00",
+          "event_name": "corner"
+        }
+      ],
+      "2": [
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-26 16:44:40.853582+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-26 17:16:25.568141+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "away_team",
+          "utc_time": "2020-07-26 17:18:53.547643+00:00",
+          "event_name": "corner"
+        },
+        {
+          "team": "home_team",
+          "utc_time": "2020-07-26 17:23:27.842119+00:00",
+          "event_name": "corner"
+        }
+      ]
+    }
+  }
+}
