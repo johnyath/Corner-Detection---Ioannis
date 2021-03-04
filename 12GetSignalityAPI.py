@@ -26,9 +26,9 @@ import os
 import Dictionaries as dicts
 
 # Credentials for Signality API
-SIGNALITY_API = "https://api.signality.com"
-USERNAME = 'interview'
-PASSWORD = 'fdf>+~By8h8D)5)'
+SIGNALITY_API = "www.admin.com"
+USERNAME = 'admin'
+PASSWORD = 'admin'
 
 save_dir1 = 'Data/Tracking Data/'
 
